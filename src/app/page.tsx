@@ -141,7 +141,7 @@ export default function Home() {
                 ></FontAwesomeIcon>
               </Link>
               <Link
-                href={"https://www.linkedin.com/in/enrique-itriago-61b061157/"}
+                href={"https://www.linkedin.com/in/enriquealejandro27/"}
                 target="_blank"
               >
                 <FontAwesomeIcon
